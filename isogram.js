@@ -15,7 +15,7 @@ const isIsogram = function isIsogram(text) {
       // if not then let it in to the checkerobj
       checkerObj[`${letter}`] = "seat's taken!";
     }
-    // log that sob to the console for debuggin'
+    // log that fool to the console for debuggin'
     console.log(checkerObj);
   }
 
